@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Detection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detect">Deteksi</string>
+    <string name="input_news">Input Berita</string>
+    <string name="news_identified_as_fact">Berita teridentifikasi sebagai <b>FAKTA</b></string>
+    <string name="news_identified_as_fake">Berita teridentifikasi sebagai <b>PALSU</b></string>
+    <string name="prediction_again">Prediksi Lagi</string>
+    <string name="indication">Identifikasi</string>
+    <string name="input_news_body">Masukan isi berita</string>
+    <string name="fake_news_detection">Deteksi berita palsu</string>
+</resources>
